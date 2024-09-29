@@ -1,0 +1,3 @@
+syncronisation
+error propagation
+context cancellation
